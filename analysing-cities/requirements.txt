@@ -1,0 +1,16 @@
+# CSC111 Final Project: Libraries used in the project.
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=2.4.2
+
+# Graphics and data visualization
+geopandas ~=0.12.2
+matplotlib ~= 3.7.1
+numpy ~= 1.24.2
+
+# Data extraction from datasets
+beautifulsoup4 ~= 4.12
+requests ~= 2.28.1
+lxml ~= 4.9.2
